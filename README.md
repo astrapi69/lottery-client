@@ -1,4 +1,4 @@
-# angular-project-template
+# lottery-client
 
 This project was initially generated with [Angular CLI](https://github.com/angular/angular-cli) and adapted to features
 that every angular project needs. It is intended as a project template and you can use it as a template project and 
